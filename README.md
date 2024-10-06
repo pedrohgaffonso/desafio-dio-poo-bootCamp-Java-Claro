@@ -4,4 +4,4 @@ Este projeto foi desenvolvido como parte do **[Claro - Java com Spring Boot](htt
 
 O objetivo principal é colocar em prática umas das principais ferramentas da OO: **ABSTRAÇÃO**, **ENCAPSULAMENTO**, **HERANÇA** E **POLIMORFISMO**, através de um projeto Java.
 
-Este projeto foi construido pelo Visual Studio Code ultilizando uma extenção que permite a codificação de projetos Java a partir do mesmo.
+Este projeto foi construido pelo Visual Studio Code ultilizando uma extensão que permite a codificação de projetos Java a partir do mesmo.
